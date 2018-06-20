@@ -5,9 +5,13 @@ class CharmingAnswers(MycroftSkill):
     def __init__(self):
         MycroftSkill.__init__(self)
 
-    @intent_file_handler('answers.charming.intent')
-    def handle_answers_charming(self, message):
-        self.speak_dialog('answers.charming')
+    @intent_file_handler('answers.stupid.intent')
+    def handle_answers_stupid(self, message):
+        self.speak_dialog('answers.stupid')
+
+    @intent_file_handler('who.thebest.intent')
+    def handle_answers_thebest(self, message):
+        self.speak_dialog('who.thebest')
 
 
 def create_skill():
