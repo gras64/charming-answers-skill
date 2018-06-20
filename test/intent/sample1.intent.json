@@ -1,0 +1,7 @@
+{
+  "utterance": "You are stupid",
+  "intent_type": "answers.charming.intent",
+  "intent": {
+    "JokingKeyword": "You are stupid"
+  }
+}
