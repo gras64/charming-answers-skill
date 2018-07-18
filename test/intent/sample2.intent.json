@@ -1,7 +1,0 @@
-{
-  "utterance": "who is the best",
-  "intent_type": "answers.charming.intent",
-  "intent": {
-    "JokingKeyword": "who is the best"
-  }
-}

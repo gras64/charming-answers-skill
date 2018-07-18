@@ -1,0 +1,5 @@
+{
+    "expected_dialog": "who.thebest",
+    "intent_type": "who.thebest.intent",
+    "utterance": "who ist the best"
+}
